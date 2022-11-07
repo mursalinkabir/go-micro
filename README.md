@@ -1,4 +1,4 @@
-# go-micro
+# go-microservice Implementation
 ## A Go microservice Implementation
 In this project four microservices will be build and docker is used to containerize them.
 We will use kubernates to deploy the container in a swarm.
